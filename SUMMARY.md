@@ -1,12 +1,13 @@
 # Summary
 
 * [مقدمه](README.md)
-  * [مجوز استفاده](copyleft.md)
+* [مجوز استفاده](copyleft.md)
 
 ## chapter01
 
 * [بردفیل](chapter01/story.md)
 * [تمرین](chapter01/exercise.md)
+* [منابع](chapter01/refrences.md)
 
 ## chapter02
 
