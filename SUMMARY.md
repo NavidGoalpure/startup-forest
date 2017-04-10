@@ -14,6 +14,7 @@
 
 * [رویای قصر های مرمرین](chapter02/story.md)
 * [تمرین](chapter02/exercise.md)
+* [منابع](chapter02/refrences.md)
 
 ## chapter03
 
