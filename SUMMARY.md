@@ -20,6 +20,7 @@
 
 * [سگ آبی](chapter03/story.md)
 * [تمرین](chapter03/exercise.md)
+* [منابع](chapter03/refrences.md)
 
 ## chapter04
 
