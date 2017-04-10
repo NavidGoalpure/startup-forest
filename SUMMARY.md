@@ -1,6 +1,7 @@
 # Summary
 
 * [مقدمه](README.md)
+  * [مجوز استفاده](copyleft.md)
 
 ## chapter01
 
@@ -39,5 +40,5 @@
 
 ## سخن پایانی
 
-* [مشارکت](lastpart/collaboration.md)
+* [support](support.md)
 
