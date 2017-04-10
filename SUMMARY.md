@@ -41,5 +41,5 @@
 
 ## سخن پایانی
 
-* [support](support.md)
+* [حمایت](support.md)
 
