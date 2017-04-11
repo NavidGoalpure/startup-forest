@@ -26,6 +26,7 @@
 
 * [سنجاب](chapter04/story.md)
 * [تمرین](chapter04/exercise.md)
+* [منابع](chapter04/refrences.md)
 
 ## chapter05
 
