@@ -3,6 +3,7 @@
 * [مقدمه](README.md)
 * [مجوز استفاده](copyleft.md)
 * [واژه باهمستان](commiunity.md)
+* [تقدیم نامه](dedicate.md)
 
 ## chapter01
 
